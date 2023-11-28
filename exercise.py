@@ -8,3 +8,6 @@ print(name + " loves " + favourite_food)
 print("she is " + age)
 
 
+
+
+
